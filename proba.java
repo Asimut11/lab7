@@ -1,6 +1,9 @@
-import java.awt.*;
+package lab8;
+
 import javax.swing.*;
-import java.awt.event.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class proba extends JFrame {
     JTextField jta1 = new JTextField(10);
